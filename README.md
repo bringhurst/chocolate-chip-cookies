@@ -20,7 +20,7 @@ Chocolate Chip Cookies
    large bowl.
 2. Melt the butter in a bowl. Add the vanilla extract to the butter.
 3. In a seperate bowl, whisk the eggs and egg yolks.
-4. Slowly whisk the egg mixture into the melted butter (be sure not to cook
+4. Slowly whisk the eggs into the melted butter mixture (be sure not to cook
    the eggs).
 5. Pour the egg and butter mixture into the dry ingredients. Mix by hand until
    a consistent dough is formed.
