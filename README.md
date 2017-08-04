@@ -27,8 +27,8 @@ Chocolate Chip Cookies
 6. With a knife, roughly cut the chocolate bars into 1/8 inch squares. Mix the
    chocolate into the dough.
 7. Cover and refrigerate for 24 hours.
-8. Preheat your oven to 360F.
+8. Preheat your oven to 360F.	
 9. Create small egg-shaped balls of the dough, roughly 3 tablespoons in size.
 10. Place on a parchment paper lined baking sheet so that each egg-shaped ball
     of dough is as tall as possible.
-11. Bake for 11-13 minutes.
+11. Bake for 8-10 minutes (no more than 12 minutes).
