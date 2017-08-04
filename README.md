@@ -26,7 +26,7 @@ Chocolate Chip Cookies
    a consistent dough is formed.
 6. With a knife, roughly cut the chocolate bars into 1/8 inch squares. Mix the
    chocolate into the dough.
-7. Cover and refrigerate for 24 hours.
+7. Cover and refrigerate for 24-72 hours.
 8. Preheat your oven to 360F.	
 9. Create small egg-shaped balls of the dough, roughly 3 tablespoons in size.
 10. Place on a parchment paper lined baking sheet so that each egg-shaped ball
