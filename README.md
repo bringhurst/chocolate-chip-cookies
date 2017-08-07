@@ -7,7 +7,7 @@ Chocolate Chip Cookies
 - 2 teaspoons cornstarch
 - 1 teaspoon baking soda
 - 2 teaspoons salt
-- 1.25 cup brown sugar
+- 1.25 cup light brown sugar
 - 1 cup unsalted butter
 - 2 teaspoons vanilla extract
 - 1 large egg
@@ -26,9 +26,11 @@ Chocolate Chip Cookies
    a consistent dough is formed.
 6. With a knife, roughly cut the chocolate bars into 1/8 inch squares. Mix the
    chocolate into the dough.
-7. Cover and refrigerate for 24-72 hours.
-8. Preheat your oven to 360F.	
-9. Create small egg-shaped balls of the dough, roughly 3 tablespoons in size.
-10. Place on a parchment paper lined baking sheet so that each egg-shaped ball
-    of dough is as tall as possible.
-11. Bake for 8-10 minutes (no more than 12 minutes).
+7. Form golfball sized egg-shaped balls of the dough, roughly 3-4 tablespoons
+   in size.
+8. Cover and refrigerate for 24-72 hours.
+9. Preheat your oven to 350F.	
+10. While the dough balls are still cold, cut in half with a knife.
+11. Place each dough ball half on a parchment lined baking sheet with the flat
+    side facing down.
+12. Bake for 18 minutes.
